@@ -1,6 +1,10 @@
 import streamlit as st
 import numpy as np
 
+st.set_page_config(
+  page_title="Banker's Algorithm by Nathan"
+)
+
 st.title("Banker's Algorithm App")
 
 # Step 1: Let user define matrix size
