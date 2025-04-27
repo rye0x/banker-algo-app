@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 
 st.set_page_config(
-  page_title="Banker's Algorithm App",
+  page_title="Banker's Algorithm App by Nathan",
   page_icon="assets/nathan_logo.png",
 )
 st.title("Banker's Algorithm App")
